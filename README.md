@@ -18,8 +18,8 @@ and how far they have to go. <br>
 -- The Credit Points Required <br>
 -- Students name, student id, student's course average (indicated as a mark and a grade) and Course type <br>
 -- If a student has completed more than 66% (two thirds) of their course, and they
-have a single unit with a score between 40-45, they get a ‘Supp assessment’ in the Grade coloumn, whereas if the score is 46-49, 
-they get a ‘Conceded Pass’.
+    have a single unit with a score between 40-45, they get a ‘Supp assessment’ in the Grade coloumn, whereas if the score is 46-49, 
+    they get a ‘Conceded Pass’. <br>
 -- Indicate how many units have been attempted and how many have been successfully completed <br>
 -- Indicate in the output any errors, such as blank fields or any other user input errors <br>
 -- If the student has obtained or gone over their required Credit Points for their course a Course Completed indicator appears on screen <br>
